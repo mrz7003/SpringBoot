@@ -28,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VSJ3OQpAVdtJrJsBEi5n57sn7a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -96,17 +97,34 @@
       <workItem from="1577262519591" duration="968000" />
       <workItem from="1577263578043" duration="7788000" />
       <workItem from="1577273549122" duration="308000" />
+      <workItem from="1577273890736" duration="281000" />
     </task>
+    <task id="LOCAL-00001" summary="提交至GitHub">
+      <created>1577274155571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577274155571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交至GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交至GitHub" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1577267737896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577267737896" />
+    <state x="556" y="113" key="CommitChangelistDialog2" timestamp="1577274152878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="556" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577274152878" />
     <state x="738" y="261" key="FileChooserDialogImpl" timestamp="1577274077232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -183,6 +201,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577273467175" />
+    <state x="513" y="240" key="Vcs.Push.Dialog.v2" timestamp="1577274168656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="513" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577274168656" />
     <state x="768" y="391" key="com.intellij.ide.util.TipDialog" timestamp="1577273556357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
